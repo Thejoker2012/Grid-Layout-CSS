@@ -1,5 +1,11 @@
 ### CSS-GRID-LAYOUT
 
-  "cabecalho"
-  "conteudo"
-  "rodape"
+`
+  grid-template-areas:
+      "cabecalho"
+      "conteudo"
+      "rodape"
+  ;
+`
+
+
