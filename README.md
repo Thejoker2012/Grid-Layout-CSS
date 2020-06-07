@@ -7,10 +7,11 @@
   console.log("Hello");
  }
  
-`grid-template-areas:`
-`"cabecalho"`
-`"conteudo"`
-`"rodape"`
-`;`
+````CSS
+grid-template-areas:`
+ "cabecalho"
+ "conteudo"
+ "rodape"
+;
 
 
