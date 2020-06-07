@@ -1,8 +1,8 @@
 # Grid-Layout-CSS
 
 <pre>
-  grid-template-areas:
-			"cabecalho"
-			"conteudo"
-			"rodape"
-	;
+`  grid-template-areas:
+	"cabecalho"
+	"conteudo"
+	"rodape"
+	;`
