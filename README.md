@@ -1,11 +1,9 @@
 ### CSS-GRID-LAYOUT
 
-`
-  grid-template-areas:
-      "cabecalho"
-      "conteudo"
-      "rodape"
-  ;
-`
+`grid-template-areas:`
+`"cabecalho"`
+`"conteudo"`
+`"rodape"`
+`;`
 
 
