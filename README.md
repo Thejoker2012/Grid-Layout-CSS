@@ -1,8 +1,6 @@
 ### CSS-GRID-LAYOUT
 
 ```CSS
-Definição das areas do template
-
 grid-template-areas:
  "cabecalho" "cabecalho" "cabecalho"
  "conteudo" "conteudo" "conteudo"
@@ -17,12 +15,17 @@ Tamanho de cada linha da grid
 
 grid-template-rows: 50px 100px 200px;
 
+Definindo cabeçalho no template
 .cabecalho{
  grid-area:cabecalho;
 }
+
+Definindo conteúdo no template
 .conteudo{
  grid-area:conteudo;
 }
+
+Definindo rodapé no template
 .rodape{
  grid-area:rodape;
 }
