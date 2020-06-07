@@ -15,17 +15,17 @@ Tamanho de cada linha da grid
 
 grid-template-rows: 50px 100px 200px;
 
-Definindo cabeçalho no template
+Definindo a área do  cabeçalho no template
 .cabecalho{
  grid-area:cabecalho;
 }
 
-Definindo conteúdo no template
+Definindo a área do conteúdo no template
 .conteudo{
  grid-area:conteudo;
 }
 
-Definindo rodapé no template
+Definindo a área do rodapé no template
 .rodape{
  grid-area:rodape;
 }
